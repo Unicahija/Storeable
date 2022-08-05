@@ -24,7 +24,12 @@ These SDGs are further described as follows;
 
 Front end: HTML5, CSS3, Bootstrap. Back end: PHP, MYSQL. Control End: Angular Java Script. IDE: Visual Studio;xampp-win32-5.5.19-0-VC11. 
 
-
+##Group Mates
+Adda, Yasmin
+Bajeta, Nicole
+Navarro, Steven John
+Pesigan, Jean Nessa
+Rancsp, Jane Mar M
 
 
 
