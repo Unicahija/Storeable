@@ -17,7 +17,7 @@ These SDGs are further described as follows;
   
   Goal 11 - Make cities and human settlements inclusive, safe, resilient and sustainable
 
-<img align="center" alt="Coding" width="400" src="https://www.un.org/sites/un2.un.org/files/field/image/e_gif_11.gif">
+<img align="center" alt="Coding" width="400" src="https://blogs.upm.es/eemove/wp-content/uploads/sites/922/2021/07/11_SDG_MakeEveryDayCount_Gifs_GDU.gif">
 
 
 ##Software Requirements
