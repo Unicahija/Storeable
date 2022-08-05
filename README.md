@@ -19,6 +19,14 @@ These SDGs are further described as follows;
 
 <img align="center" alt="Coding" width="400" src="https://cse.wu.ac.th/wp-content/uploads/2021/09/4_SDG.gif">
 
+##Software Requirements
+
+Front end: HTML5, CSS3, Bootstrap; /n
+Back end: PHP, MYSQL; /n
+Control End: Angular Java Script. /n
+IDE: Visual Studio;xampp-win32-5.5.19-0-VC11. /n
+
+
 
 
 
